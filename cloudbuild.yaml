@@ -91,4 +91,4 @@ steps:
       fi
 # [END tf-apply]      
 options:
-  logging:  NONE
+  logging: NONE
