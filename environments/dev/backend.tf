@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "jay-tfstate"
+    bucket =  "jay-tfstate"
     prefix = "env/dev"
   
 }
